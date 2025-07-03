@@ -34,6 +34,3 @@ This document contains user stories derived from the use case diagram created in
      - I can approve or reject properties with a reason.
      - Approved properties are visible to guests.
 
-## Notes
-- These stories are based on the use case diagram in `use-case-diagram/airbnb-clone-use-case.png`.
-- Additional stories can be added for secondary use cases (e.g., "Send Message", "View Analytics") as needed.
