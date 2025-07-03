@@ -93,6 +93,3 @@ This document outlines the technical and functional requirements for key backend
   - Concurrent bookings: Support 800 simultaneous requests.
   - Reliability: 99.9% uptime.
 
-## Notes
-- These requirements are based on the features from `features-and-functionalities/`.
-- The current date is July 01, 2025, and specifications reflect real-world backend needs.
