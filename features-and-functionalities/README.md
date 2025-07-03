@@ -44,6 +44,4 @@ The backend supports the following core components:
 - Review the PNG file for a graphical overview.
 - Use this documentation to guide backend development and API design.
 
-## Notes
-- The diagram and list are based on the database schema from the `alx-airbnb-database` project and industry standards for Airbnb-like platforms.
-- Additional features (e.g., AI-driven pricing, multi-language support) can be added based on project scope.
+.
