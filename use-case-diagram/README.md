@@ -48,6 +48,3 @@ This directory contains a use case diagram that visualizes the interactions betw
 - Review the PNG file for a graphical overview of system interactions.
 - Use this diagram to guide backend development and API design.
 
-## Notes
-- The use cases are based on the features outlined in the `features-and-functionalities/` directory.
-- Relationships like "Include" or "Extend" can be added for more detail if required.
