@@ -39,6 +39,3 @@ This directory contains a Data Flow Diagram (DFD) that maps the data flow within
 - Review the PNG file to understand data movement.
 - Use this diagram to design backend workflows and database interactions.
 
-## Notes
-- The DFD is based on the features from `features-and-functionalities/`.
-- The current date is July 01, 2025, and the diagram reflects real-world data flow needs.
